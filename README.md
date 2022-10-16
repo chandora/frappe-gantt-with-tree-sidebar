@@ -1,3 +1,12 @@
+# Under Construction
+
+This package is under construction.
+
+- Forked from frappe-gantt
+- Adding a sidebar with tree expression and more dependency types
+
+# Original README from frappe-gantt
+
 <div align="center">
     <img src="https://github.com/frappe/design/blob/master/logos/logo-2019/frappe-gantt-logo.png" height="128">
     <h2>Frappe Gantt</h2>
